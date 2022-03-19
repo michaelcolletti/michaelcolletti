@@ -10,9 +10,18 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Migration and Modernization
+
 - 🌱 I’m perpetually learning Kubernetes, Hyperscaler services, IaC, CI/CD, Cloud Architecture
-- 👯 I’m looking to collaborate on music, as a bassist, and cloud as a solution architect
-- 💬 Ask me about The awesome artists I've worked with and my adopted hometown of Woodstock, NY
+
+- 👯 I’m always looking for work as an independent contractor. Hit me up
+
+- 💬 Ask me about music projects and the awesome artists I've worked with and my adopted hometown of Woodstock, NY
+
 - 📫 How to reach me: email devnullid+gitmail@gmail.com
+
 - 😄 Pronouns: He/Him
+
+
+<!--
 - ⚡ Fun fact: 
+-->
