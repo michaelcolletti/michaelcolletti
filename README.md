@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Architecture, Terraform, Automation/IaC and Modernization
 - 🌱 I’m perpetually learning Kubernetes, Clouds, IaC, CI/CD, and well architected things
-- 👯 I’m always looking for work as an independent advisor. [Hit me up](mailto:devnullid+servicerequest@gmail.com) @devnullid 
+- 👯 I’m always looking for work as an independent advisor. [Hit me up](mailto:devnullid+servicerequest@gmail.com)
 - 💬 Ask me about music projects and the awesome artists I've worked with and my adopted hometown of Woodstock, NY
-- 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com) [Twitter](https://twitter.com/devnullid)
+- 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid)
 - 😄 Pronouns: He/Him
 
 
