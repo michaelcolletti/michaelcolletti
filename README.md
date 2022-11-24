@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I work as an independent advisor. So, hit me up [here](mailto:devnullid+servicerequest@gmail.com)
 - 💬 Ask me about music projects and the awesome artists I've worked with and my adopted hometown of Woodstock,NY
 - 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid) 
-- <a rel="me" href="https://hachyderm.io/@LegacyWhisperer">Mastodon: I am grateful to @nova and hachyderm.io</a>
+- <a rel="me" href="https://hachyderm.io/@LegacyWhisperer">Mastodon </a>
 - ⚡ Fun fact: I did a gig honoring Cab Calloway. He sang _Minnie the Moocher_! It was epic. He was a King! Hidi-Hidi-Hidi-Ho! 
 - 😄 Pronouns: He/Him
 
