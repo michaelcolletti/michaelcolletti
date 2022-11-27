@@ -1,6 +1,6 @@
 ### Hi, I'm Michael
 
-Welcome to this place. It's been a while ride so far. Here are some things I'm learning and sharing.
+Welcome to this place. It's been a wild ride so far. Here are some things I'm learning and sharing.
 * [DevOps, Resume, Music and Projects:](https://michaelcolletti.github.io/me)
 * [*DevOps as a Cultural Movement and Historical Moment for The New Class*](https://michaelcolletti.github.io/devops-writings)
 <!--
