@@ -16,7 +16,7 @@ ____
 - 👯 I work as an independent advisor. So, hit me up [here](mailto:devnullid+servicerequest@gmail.com)
 - 💬 Ask me about music projects and the awesome artists I've worked with. Obligitory SoundCloud](
 - 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid) 
-- [Fediverse / @LegacyWhisperer](https://hachyderm.io/@LegacyWhisperer) 🙏 to @nova and Hachyderm.io 
+- [Fediverse / @LegacyWhisperer](https://hachyderm.io/@LegacyWhisperer) 🙏 to Hachyderm.io 
 - ⚡ Fun fact: I did a gig honoring Cab Calloway. He sang _Minnie the Moocher_ It was Epic. He was a King! Hidi-Hidi-Hidi-Ho! 
 - 😄 Pronouns: He/Him
 
