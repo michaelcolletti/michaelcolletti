@@ -6,7 +6,8 @@ Welcome to this place. It's been a wild ride so far. Here are some things I'm le
 * [DevOps, Resume, Music and Projects](https://michaelcolletti.github.io/me)
 * [DevOps Primer](https://github.com/cpitraininglabs/DevOps-Primer)
 * [*GenAI-DevOps Primer*](https://github.com/cpitraininglabs/GenAI-DevOps-Primer)
-* [CPI Training Labs](https://github.com/cpitraininglabs)  
+* [CPI Training Labs](https://github.com/cpitraininglabs)
+* [Wesite](http://michaelcolletti.com)
 <!--
 **michaelcolletti/michaelcolletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
