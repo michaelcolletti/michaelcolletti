@@ -20,7 +20,7 @@ ____
 - 👯 I work as an independent advisor so I can focus on interests of the client so, hit me up [here](mailto:devnullid+servicerequest@gmail.com)
 - 💬 Ask me about music projects and the awesome artists I've worked with. [SoundCloud](https://soundcloud.com/michaelcolletti) [ReverbNation](https://www.reverbnation.com/michaelcolletti)
 - 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid) 
-- [Fediverse / @LegacyWhisperer](https://hachyderm.io/@LegacyWhisperer) eternal 🙏 to Kris Nova and Hachyderm.io 
+- [Fediverse / @LegacyWhisperer](https://hachyderm.io/@LegacyWhisperer) eternal 🙏 to Nova and Hachyderm.io 
 - ⚡ Fun fact: I did a gig honoring Cab Calloway. He sang _Minnie the Moocher_ It was Epic. He was a King! Hidi-Hidi-Hidi-Ho! 
 - 😄 Pronouns: He/Him
 
