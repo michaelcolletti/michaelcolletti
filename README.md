@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ____
 
 -  Working on GenAI projects with more to come soon! 
-- 🌱 I’m perpetually learning, most recently GenAI but have also grok'd Kubernetes, Clouds, IaC, CI/CD, Architecture, distributed systems and Love well architected things. 
+- 🌱 I’m perpetually learning, most recently GenAI but have also dig Kubernetes, Clouds, IaC, CI/CD, Architecture, distributed systems and Love well architected things. 
 - 👯 I work as an independent advisor so I can focus on interests of the client so, hit me up [here](mailto:devnullid+servicerequest@gmail.com)
 - 💬 Ask me about music projects and the awesome artists I've worked with. [SoundCloud](https://soundcloud.com/michaelcolletti) [ReverbNation](https://www.reverbnation.com/michaelcolletti)
 - 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid) 
