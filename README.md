@@ -4,6 +4,7 @@ Welcome to this place. It's been a wild ride so far. Here are some things I'm le
 
 * 🔭 I’m currently a **Freelancing Automation Architect and Platform and Tool Champion** [Upwork](https://www.upwork.com/freelancers/~01543c426937f19998?mp_source=share) 
 * [DevOps, Resume, Music and Projects](https://michaelcolletti.github.io/me)
+* [HuggingFace](https://huggingface.co/LegacyWhisperer)
 * [DevOps Primer](https://github.com/cpitraininglabs/DevOps-Primer)
 * [*GenAI-DevOps Primer*](https://github.com/cpitraininglabs/GenAI-DevOps-Primer)
 * [CPI Training Labs](https://github.com/cpitraininglabs)
@@ -19,7 +20,7 @@ ____
 - 🌱 I’m perpetually learning, most recently GenAI but have also dig Kubernetes, Clouds, IaC, CI/CD, Architecture, distributed systems and Love well architected things. 
 - 👯 I work as an independent advisor so I can focus on interests of the client so, hit me up [here](mailto:devnullid+servicerequest@gmail.com)
 - 💬 Ask me about music projects and the awesome artists I've worked with. [SoundCloud](https://soundcloud.com/michaelcolletti) [ReverbNation](https://www.reverbnation.com/michaelcolletti)
-- 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid) 
+- 📫 How to reach me: [Email](mailto:devnullid+gitmail@gmail.com)  -  [Twitter](https://twitter.com/devnullid) - [Bsky](https://bsky.app/profile/legacywhisperer.bsky.social)
 - [Fediverse / @LegacyWhisperer](https://hachyderm.io/@LegacyWhisperer) eternal 🙏 to Nova and Hachyderm.io 
 - ⚡ Fun fact: I did a gig honoring Cab Calloway. He sang _Minnie the Moocher_ It was Epic. He was a King! Hidi-Hidi-Hidi-Ho! 
 - 😄 Pronouns: He/Him
